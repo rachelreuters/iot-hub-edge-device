@@ -81,3 +81,8 @@ Alguns comandos que podem ser executados nessa VM:
 * Listar todos os módulos que estão em execução no Device: ``` sudo iotedge list ```
 * Verificar logs de um módulo: ``` sudo iotedge logs MODULE_NAME ```
 * Reiniciar um módulo: ``` sudo iotedge restart MODULE_NAME ```
+
+
+##  📝 Dicas para validação da solução
+Para validar o projeto, uma ideia interessante é criar um esquema de roteamento no IOT HUB na nuvem para redirecionar um grupo de mensagens (a partir de uma Routing Query) para um Logic App que irá enviar emails para um destinatário, com o conteúdo da mensagem, por exemplo.
+ 
