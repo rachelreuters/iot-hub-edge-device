@@ -2,6 +2,7 @@
 
 > Objetivo: Criar um IOT Edge Device com módulos que trocam mensagens através do IOT HUB local. Um dos módulos irá mandar mensagens de temperatura e o outro irá receber essas mensagens e irá enviar para o IOT HUB na nuvem. 
 
+![Alt text](architecture.PNG?raw=true "Title")
 
 ## 💻 Pré-requisitos
 
