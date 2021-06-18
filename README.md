@@ -1,11 +1,5 @@
 # Dominando o IOT HUB , Device EDGE e Device Edge Modules
 
-<!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
-
-![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
-
 > Objetivo: Criar um IOT Edge Device com módulos que trocam mensagens através do IOT HUB local. Um dos módulos irá mandar mensagens de temperatura e o outro irá receber essas mensagens e irá enviar para o IOT HUB na nuvem. 
 
 
