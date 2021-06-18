@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ModuleDevice": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
